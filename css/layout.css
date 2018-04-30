@@ -43,6 +43,6 @@
   float: left;
   width: 30%;
 }
-[class*="col-"] {
+/*[class*="col-"] {
   margin-left: 0%;
-}
+}*/
