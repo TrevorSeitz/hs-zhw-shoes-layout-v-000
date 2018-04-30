@@ -27,6 +27,8 @@
 .col-1 {
   float: right;
   width: 33%;
+  font-size: 95%;
+  margin-bottom: 1em;
 }
 
 .col-2 {
