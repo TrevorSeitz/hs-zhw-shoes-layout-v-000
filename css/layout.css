@@ -57,3 +57,7 @@
 .first {
   margin-left: 0em;
 }
+
+#details {
+  padding-left: 1em;
+}
